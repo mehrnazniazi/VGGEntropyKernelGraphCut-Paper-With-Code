@@ -1,4 +1,4 @@
-# VGGEntropyKernelGraphCut-Paper-With-Code
+# VGGEntropyKernelGraphCut-Paper-with-Code
 Textural Image Segmentation based on Entropy and VGG16 Deep Neural Network Kernel Graph Cut
 
 This repository presents an enhanced approach to the entropy-based graph cut algorithm for image segmentation by incorporating a feature space extracted from the VGG16 deep neural network. By introducing this additional feature space, the effectiveness of the graph cut algorithm kernel for pixel segmentation is improved.
